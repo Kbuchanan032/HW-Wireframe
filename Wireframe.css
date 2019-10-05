@@ -1,0 +1,77 @@
+h1 {
+  background: #ebebeb;
+  color: #777;
+  width: 960px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 40px;
+  padding: 40px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+h2 {
+  background: #ebebeb;
+  color: #777;
+  width: 960px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 40px;
+  text-align: center;
+  padding: 40px;
+  border: 40px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+body {
+  text-align: center;
+  margin: 0px 0px auto;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  left: 150px;
+}
+
+html {
+  background: darkslategray;
+}
+
+div {
+  float: inline-start;
+  position: relative;
+  background: #ebebeb;
+  left: 41px;
+  width: 600px;
+  text-align: center;
+  font-size: 18px;
+  height: 250px;
+}
+
+article {
+  position: absolute;
+  width: 20px;
+  font-size: 18px;
+  text-align: center;
+  width: 600px;
+  height: 150px;
+  top: 60px;
+  background: darkslategray;
+  right: 20px;
+  color: whitesmoke;
+}
+
+ul {
+  position: absolute;
+}
+
+h7 {
+  float: right;
+  position: relative;
+  bottom: 300px;
+  right: 400px;
+  background-color: #ebebeb;
+  width: 300px;
+  height: 50px;
+  left: 1px;
+}
