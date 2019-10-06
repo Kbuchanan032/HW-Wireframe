@@ -1,7 +1,7 @@
 h1 {
   background: #ebebeb;
   color: #777;
-  width: 960px;
+  width: 990px;
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
@@ -27,10 +27,8 @@ h2 {
 
 body {
   text-align: center;
-  margin: 0px 0px auto;
   font-family: Arial, Helvetica, sans-serif;
   position: absolute;
-  left: 150px;
 }
 
 html {
@@ -49,29 +47,52 @@ div {
 }
 
 article {
-  position: absolute;
-  width: 20px;
   font-size: 18px;
   text-align: center;
-  width: 600px;
+  width: 50%;
   height: 150px;
   top: 60px;
   background: darkslategray;
-  right: 20px;
+  right: 50px;
   color: whitesmoke;
+  margin: auto;
 }
 
-ul {
-  position: absolute;
+h3 {
+  margin: 20px;
+  width: 350px;
+  height: 15px;
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  width: 90%;
+  right: 20px;
 }
 
-h7 {
+aside {
+  background: #ebebeb;
+  color: #777;
+  width: 38.5%;
+  height: 250px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
   float: right;
-  position: relative;
-  bottom: 300px;
-  right: 400px;
-  background-color: #ebebeb;
-  width: 300px;
-  height: 50px;
-  left: 1px;
+}
+
+footer {
+  background: #ebebeb;
+  color: #777;
+  width: 960px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 40px;
+  padding: 40px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+p {
+  padding: 10px;
 }
