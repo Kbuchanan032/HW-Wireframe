@@ -1,7 +1,7 @@
 h1 {
   background: #ebebeb;
   color: #777;
-  width: 990px;
+  width: 960px;
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
@@ -60,13 +60,13 @@ article {
 
 h3 {
   margin: 20px;
-  width: 350px;
+  width: 320px;
   height: 15px;
   background-color: #777;
   padding: 10px;
   text-align: center;
   width: 90%;
-  right: 20px;
+  right: 40px;
 }
 
 aside {
@@ -95,4 +95,5 @@ footer {
 
 p {
   padding: 10px;
+  margin: 20px;
 }
